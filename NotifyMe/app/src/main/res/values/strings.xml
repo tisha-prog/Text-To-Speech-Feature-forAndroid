@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotifyMe</string>
+    <string name="add_your_text_here">Add your text here</string>
+    <string name="speak">Speak</string>
+</resources>
